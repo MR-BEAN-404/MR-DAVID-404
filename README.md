@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/MR-DAVID-404"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Mr-David-404&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/MR-DAVID-404"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Mr-David-404&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/MR-DAVID-404"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MR-DAVID-404&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/MR-DAVID-404><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
